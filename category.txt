@@ -1,0 +1,45 @@
+
+vowel: 0, stop : 1, 
+affricate: 2, fricative:3, 
+aspirate:4, liquid:5, 
+nasal: 6, semivowel: 7, err + blank: 8
+|1|AA|odd|AA D|vowel|
+|2|AE|at|AE T|vowel|
+|3|AH|hut|HH AH T|vowel|
+|4|AO|ought|AO T|vowel|
+|5|AW|cow|K AW|vowel|
+|6|AX|discus|D IH S K AX S|vowel|
+|7|AY|hide|HH AY D|vowel|
+|8|B|be|B IY|stop|
+|9|CH|cheese|CH IY Z|affricate|
+|10|D|dee|D IY|stop|
+|11|DH|thee|DH IY|fricative|
+|12|EH|Ed|EH D|vowel|
+|13|ER|hurt|HH ER T|vowel|
+|14|EY|ate|EY T|vowel|
+|15|F|fee|F IY|fricative|
+|16|G|green|G R IY N|stop|
+|17|HH|he|HH IY|aspirate|
+|18|IH|it|IH T|vowel|
+|19|IY|eat|IY T|vowel|
+|20|JH|gee|JH IY|affricate|
+|21|K|key|K IY|stop|
+|22|L|lee|L IY|liquid|
+|23|M|me|M IY|nasal|
+|24|N|knee|N IY|nasal|
+|25|NG|ping|P IH NG|nasal|
+|26|OW|oat|OW T|vowel|
+|27|OY|toy|T OY|vowel|
+|28|P|pee|P IY|stop|
+|29|R|read|R IY D|liquid|
+|30|S|sea|S IY|fricative|
+|31|SH|she|SH IY|fricative|
+|32|T|tea|T IY|stop|
+|33|TH|theta|TH EY T AH|fricative|
+|34|UH|hood|HH UH D|vowel|
+|35|UW|two|T UW|vowel|
+|36|V|vee|V IY|fricative|
+|37|W|we|W IY|semivowel|
+|38|Y|yield|Y IY L D|semivowel|
+|39|Z|zee|Z IY|fricative|
+|40|ZH|seizure|S IY ZH ER|fricative|
